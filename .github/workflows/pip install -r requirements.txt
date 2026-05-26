@@ -1,0 +1,3 @@
+pip install -r requirements.txt
+python -m src.evaluate --model models/crop_model.h5 --val-dir data/val --out-dir evaluationpip install -r requirements.txt
+python -m src.evaluate --model models/crop_model.h5 --val-dir data/val --out-dir evaluation

@@ -1,0 +1,13 @@
+tensorflow>=2.11
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+tqdm
+requests
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+seaborn
